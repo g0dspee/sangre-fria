@@ -1,0 +1,6 @@
+# git clone https://github.com/g0dspee/sangre-fria.git
+
+# Para subir archivos:
+# git add .
+# git commit -m "COMENTARIO"
+# git push origin main
