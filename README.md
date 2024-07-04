@@ -14,3 +14,7 @@ git add .
 git commit -m "COMENTARIO"
 git push origin main
 ```
+
+Para sincronizar las actualizaciones del repositorio ejecutar en terminal dentro del repositorio:
+
+```git pull```
